@@ -1,1 +1,30 @@
-[]
+[
+  {
+    "id": "39a62edf-ed2e-4dcb-9a03-3f82afa37039",
+    "name": "Sheryl Graham",
+    "phone": "(809) 907-9566 x60295",
+    "email": "Susan.Hagenes@hotmail.com",
+    "job": "Global Usability Analyst"
+  },
+  {
+    "id": "6eae5893-2433-494f-9f9a-bce6de702588",
+    "name": "Michelle Braun",
+    "phone": "501.727.3973 x88084",
+    "email": "Edgar_Monahan30@yahoo.com",
+    "job": "Internal Data Officer"
+  },
+  {
+    "id": "145b20ac-d8e0-4b07-b516-b007a41f740d",
+    "name": "Teri Bogan Jr.",
+    "phone": "436-949-8932 x4610",
+    "email": "Bernard84@gmail.com",
+    "job": "Central Data Officer"
+  },
+  {
+    "id": "89980e44-97f5-4287-8c44-fb0514b7535d",
+    "name": "Dana Friesen",
+    "phone": "641-416-6542",
+    "email": "Bennie_Dickinson@gmail.com",
+    "job": "International Configuration Strategist"
+  }
+]
